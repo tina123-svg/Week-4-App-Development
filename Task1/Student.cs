@@ -6,6 +6,6 @@
     public string Section;
 
     //? Declaring the static field
-    public static String CollegeName = "Itahari Interntional COllege";
+    public static String CollegeName = "Islington COllege";
 
 }
